@@ -41,6 +41,8 @@ namespace MonApplication.Models
         [ForeignKey("Role")]
         public int IdRole { get; set; }
 
+        [Required(ErrorMessage = "La localité est obligatoire.")]
+        [ForeignKey("Localite")]
         public int IdLocalite { get; set; }
     }
 }

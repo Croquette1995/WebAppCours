@@ -1134,23 +1134,23 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery\LICENSE.txt'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAppCours.y0ur9xig8e.bundle.scp.css'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAppCours.ncd62ysxqj.bundle.scp.css'))">
       <SourceType>Package</SourceType>
       <SourceId>WebAppCours</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/WebAppCours</BasePath>
-      <RelativePath>WebAppCours.y0ur9xig8e.bundle.scp.css</RelativePath>
+      <RelativePath>WebAppCours.ncd62ysxqj.bundle.scp.css</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>Reference</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName>ScopedCss</AssetTraitName>
       <AssetTraitValue>ProjectBundle</AssetTraitValue>
-      <Fingerprint>y0ur9xig8e</Fingerprint>
-      <Integrity>wr2cpsPhMTR9wN909YWi4vsvnYnYGEUGheAAghLeZ50=</Integrity>
+      <Fingerprint>ncd62ysxqj</Fingerprint>
+      <Integrity>F5Mjvjul5tRj0QFyu7iPXwyfhe1rSz2tA9vwMzspYBI=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAppCours.y0ur9xig8e.bundle.scp.css'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAppCours.ncd62ysxqj.bundle.scp.css'))</OriginalItemSpec>
     </StaticWebAsset>
   </ItemGroup>
 </Project>
